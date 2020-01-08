@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HighscoresFrame
+comment0.text=\r\n\ Displays\ highscoeres\ on\ a\ new\ frame.\r\n\r\n\ @author\ Rodrigo\ Fierro\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=HighscoresFrame()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ HighscoresFrame\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\ This\ action\ listener\ is\ called\ when\ the\ user\ clicks\ on\ \r\n\ any\ of\ the\ GUI's\ buttons.\ \r\n
+numComments=3
